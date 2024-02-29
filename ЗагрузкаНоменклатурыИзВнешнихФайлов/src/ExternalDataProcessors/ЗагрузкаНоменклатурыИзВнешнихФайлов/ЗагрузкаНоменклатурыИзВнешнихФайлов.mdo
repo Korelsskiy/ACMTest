@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="260300a0-b968-46c5-8312-dfcc98b47f37">
+  <producedTypes>
+    <objectType typeId="d3576582-7467-4d06-8661-67aee475ff46" valueTypeId="cd3f15dd-efd4-438a-93e2-7ceee346a249"/>
+  </producedTypes>
+  <name>ЗагрузкаНоменклатурыИзВнешнихФайлов</name>
+  <synonym>
+    <key>ru</key>
+    <value>Загрузка номенклатуры из внешних файлов</value>
+  </synonym>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="0303ac0b-bf79-486d-b9be-a8e7df25ce75"/>
+  <defaultForm>ExternalDataProcessor.ЗагрузкаНоменклатурыИзВнешнихФайлов.Form.Форма</defaultForm>
+  <forms uuid="36999879-c0b1-4423-80c1-ca9b28b21f42">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:ExternalDataProcessor>
